@@ -2,9 +2,9 @@
 
 A powerful web application that transforms 2D images and videos into stunning 3D models using NeRF (Neural Radiance Fields) technology. StereoScape provides an intuitive interface for converting your 2D content into immersive 3D experiences.
 
-<div align="center">
-  <img src="screenshots/logo.png" alt="StereoScape Logo" width="100%"/>
-</div>
+![WhatsApp Image 2025-04-23 at 18 49 21_29c7879c](https://github.com/user-attachments/assets/40723ff4-b973-4e10-be73-8adbabbbd577)
+
+
 
 ## 🎯 Overview
 
