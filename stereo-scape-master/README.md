@@ -17,24 +17,18 @@ StereoScape leverages cutting-edge Neural Radiance Fields (NeRF) technology to:
 ## 📸 Application Screenshots
 
 ### Upload Interface
-<div align="center">
-  <img src="screenshots/upload-interface.png" alt="Upload Interface" width="100%"/>
-</div>
+![WhatsApp Image 2025-04-23 at 18 50 05_32dc89a8](https://github.com/user-attachments/assets/eef52400-c5c9-4ed2-9e5d-178a849f608c)
+
 
 ### Processing View with PSNR Graph
-<div align="center">
-  <img src="screenshots/processing-view.png" alt="Processing View" width="100%"/>
-</div>
+![WhatsApp Image 2025-04-25 at 22 29 05_e5add29b](https://github.com/user-attachments/assets/2b48c71b-f837-4e95-abfa-936fbdd3b530)
+
 
 ### NeRF Information
-<div align="center">
-  <img src="screenshots/nerf-info.png" alt="NeRF Information" width="100%"/>
-</div>
+![WhatsApp Image 2025-04-23 at 18 49 52_62f1f288](https://github.com/user-attachments/assets/84f7611b-0f6c-4ada-8d00-6b88aa316275)
 
-### Welcome Screen
-<div align="center">
-  <img src="screenshots/welcome.png" alt="Welcome Screen" width="100%"/>
-</div>
+
+
 
 ## 🚀 Key Features
 
