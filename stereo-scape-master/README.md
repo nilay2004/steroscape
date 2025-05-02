@@ -83,10 +83,6 @@ StereoScape leverages cutting-edge Neural Radiance Fields (NeRF) technology to:
 - **LinkedIn**: [Nilay Pandya](https://www.linkedin.com/in/nilay-pandya-b6ba62253/)
 - **GitHub**: [nilay2004](https://github.com/nilay2004/steroscape)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 If you find this project helpful, please consider giving it a ⭐️
