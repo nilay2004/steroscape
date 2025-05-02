@@ -1,0 +1,125 @@
+@font-face {
+  font-family: "sf_display_pro";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: 
+    url("./fonts/woff2/SF-Pro-Display-Ultralight.woff2") format("woff2"),
+    url("./fonts/woff/SF-Pro-Display-Ultralight.woff") format("woff"),
+    url("./fonts/ttf/SF-Pro-Display-Ultralight.ttf") format("truetype");
+  type: "font/woff2"  /* for WOFF2 */,
+        "font/woff"   /* for WOFF */,
+        "font/ttf"; 
+  
+}
+
+@font-face {
+  font-family: "sf_display_pro";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: 
+    url("./fonts/woff2/SF-Pro-Display-Thin.woff2") format("woff2"),
+    url("./fonts/woff/SF-Pro-Display-Thin.woff") format("woff"),
+    url("./fonts/ttf/SF-Pro-Display-Thin.ttf") format("truetype");
+  type: "font/woff2"  /* for WOFF2 */,
+        "font/woff"   /* for WOFF */,
+        "font/ttf"; 
+}
+
+@font-face {
+  font-family: "sf_display_pro";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: 
+    url("./fonts/woff2/SF-Pro-Display-Light.woff2") format("woff2"),
+    url("./fonts/woff/SF-Pro-Display-Light.woff") format("woff"),
+    url("./fonts/ttf/SF-Pro-Display-Light.ttf") format("truetype");
+  type: "font/woff2"  /* for WOFF2 */,
+        "font/woff"   /* for WOFF */,
+        "font/ttf"; 
+}
+
+@font-face {
+  font-family: "sf_display_pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: 
+    url("./fonts/woff2/SF-Pro-Display-Regular.woff2") format("woff2"),
+    url("./fonts/woff/SF-Pro-Display-Regular.woff") format("woff"),
+    url("./fonts/ttf/SF-Pro-Display-Regular.ttf") format("truetype");
+   type: "font/woff2"  /* for WOFF2 */,
+        "font/woff"   /* for WOFF */,
+        "font/ttf"; 
+}
+
+@font-face {
+  font-family: "sf_display_pro";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: 
+    url("./fonts/woff2/SF-Pro-Display-Medium.woff2") format("woff2"),
+    url("./fonts/woff/SF-Pro-Display-Medium.woff") format("woff"),
+    url("./fonts/ttf/SF-Pro-Display-Medium.ttf") format("truetype"); type: "font/woff2"  /* for WOFF2 */,
+        "font/woff"   /* for WOFF */,
+        "font/ttf"; 
+}
+
+@font-face {
+  font-family: "sf_display_pro";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: 
+    url("./fonts/woff2/SF-Pro-Display-Semibold.woff2") format("woff2"),
+    url("./fonts/woff/SF-Pro-Display-Semibold.woff") format("woff"),
+    url("./fonts/ttf/SF-Pro-Display-Semibold.ttf") format("truetype"); type: "font/woff2"  /* for WOFF2 */,
+        "font/woff"   /* for WOFF */,
+        "font/ttf"; 
+}
+
+@font-face {
+  font-family: "sf_display_pro";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: 
+    url("./fonts/woff2/SF-Pro-Display-Bold.woff2") format("woff2"),
+    url("./fonts/woff/SF-Pro-Display-Bold.woff") format("woff"),
+    url("./fonts/ttf/SF-Pro-Display-Bold.ttf") format("truetype"); type: "font/woff2"  /* for WOFF2 */,
+        "font/woff"   /* for WOFF */,
+        "font/ttf"; 
+}
+
+@font-face {
+  font-family: "sf_display_pro";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: 
+    url("./fonts/woff2/SF-Pro-Display-Heavy.woff2") format("woff2"),
+    url("./fonts/woff/SF-Pro-Display-Heavy.woff") format("woff"),
+    url("./fonts/ttf/SF-Pro-Display-Heavy.ttf") format("truetype"); type: "font/woff2"  /* for WOFF2 */,
+        "font/woff"   /* for WOFF */,
+        "font/ttf"; 
+}
+
+@font-face {
+  font-family: "sf_display_pro";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: 
+    url("./fonts/woff2/SF-Pro-Display-Black.woff2") format("woff2"),
+    url("./fonts/woff/SF-Pro-Display-Black.woff") format("woff"),
+    url("./fonts/ttf/SF-Pro-Display-Black.ttf") format("truetype"); type: "font/woff2"  /* for WOFF2 */,
+        "font/woff"   /* for WOFF */,
+        "font/ttf"; 
+}
+:root{
+  --fonts:  "sf_display_pro", 'Inter', 'Segoe UI', 'consolas', 'system-ui';
+  --secondary-fonts: 'JetBrainsMono Nerd Font', consolas, 'fira code';
+}
